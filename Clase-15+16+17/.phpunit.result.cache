@@ -1,0 +1,1 @@
+{"version":1,"defects":{"POstTest::test_add_comment_to_post":8,"PostTest::test_add_comment_to_post":8},"times":{"POstTest::test_add_comment_to_post":0.004,"PostTest::test_add_comment_to_post":0.001}}
