@@ -1,0 +1,9 @@
+{
+    "name": "retaxmaster/post",
+    "description": "Proyecto de OOP",
+    "autoload": {
+        "psr-4": {
+            "Blog\\": "src/"
+        }
+    }
+}
